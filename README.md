@@ -10,7 +10,7 @@
   <code>
     <a href="https://www.linkedin.com/in/sultan-ul-arefin/" title="LinkedIn Profile"><img width="22" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.Facebook.com/zumrudu_anka" title="Facebook Profile"><img width="22" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/facebook.png"> Facebook</a></code>
-  <code><a href="https://sultan-ul-arefin.github.io/" title="Website & Blog"><img width="22" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/blog.svg"> Website & Blog </a></code>
+  <code><a href="https://sultan-ul-arefin.github.io/" title="Website & Blog"><img width="22" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/blog.png"> Website & Blog </a></code>
   
 </h5>
 <br>
@@ -38,11 +38,14 @@
   <!-- <code><img title="C" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/c.svg"></code>
   <code><img title="C++" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/cpp.svg"></code> -->
   <code><img title="Javascript" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/javascript.svg"></code>
+  <code><img title="Typescript" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/Typescript.svg"></code>
   <code><img title="AngularJS" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/angularjs.png"></code>
+  <code><img title="ionic" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/ionic.png"></code>
   <code><img title="C#" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/cSharp.svg"></code>
   <code><img title=".NetCore" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/dotnetcore.svg"></code>
   <code><img title="Java" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/java-original.svg"></code>
   <code><img title="Android" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/android.svg"></code>
+  <code><img title="flutter" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/flutter.png"></code>
   <code><img title="Python" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/python-original.svg"></code>
   <code><img title="Django" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/django.png"></code>
   <code><img title="Flask" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/flask.png"></code>
