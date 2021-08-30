@@ -24,7 +24,7 @@
   <br>
   💻 I love writing clean code and knowing about pattern of golden ratio.
   <br>
-  📚 I’m currently learning NLP & Data Science beside Flutter.
+  📚 I’m currently learning Blockchain, NLP & Data Science beside Flutter.
   <br>
   💬 Ask me anything about from <a href="https://github.com/sultan-ul-arefin/sultan-ul-arefin/issues" title="Issues">Here</a>
   <br>
@@ -39,6 +39,7 @@
   <code><img title="C++" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/cpp.svg"></code> -->
   <code><img title="C#" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/cSharp.svg"></code>
   <code><img title="Python" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/python-original.svg"></code>
+    <code><img title="Java" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/java-original.svg"></code>
   <!-- <code><img title="Django" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/django.png"></code> -->
   <!-- <code><img title="Flask" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/flask.png"></code> -->
   <code><img title="Javascript" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/javascript.svg"></code>
@@ -56,8 +57,8 @@
   <code><img title="Visual Studio Code" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/vscode.png"></code>
   <code><img title="Microsoft Visual Studio" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/visualstudio.png"></code>
   <!-- <code><img title="JQuery" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/jquery-original.svg"></code> -->
-  <code><img title="Java" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/java-original.svg"></code>
-  <code><img title="JSON" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/json.svg"></code>
+
+  <!-- <code><img title="JSON" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/json.svg"></code> -->
   <!-- <code><img title="Unity" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/unity3d.svg"></code> -->
   <code><img title="Android" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/android.svg"></code>
   <code><img title="GitHub" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/github.svg"></code>
