@@ -18,7 +18,7 @@
   Hi, I'm Sultanul Arefin, Computer Engineer & Software Developer from Dhaka,Bangladesh
   <br>
   <br>
-  🎓 I'm currently studying for a bachelor's degree in School Of Scinece & Technology Bangladesh Open University Computer Engineering Department
+  🎓 I'm currently studying for a bachelor's degree in Computer Scinece & Engineering
   <br>
   🌱 I currently working at a startup company <a href="https://infobahnrealm.com" title="Infobahn Realm">Infobahn Realm</a> as software engineer.
   <br>
