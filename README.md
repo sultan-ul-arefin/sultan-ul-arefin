@@ -76,7 +76,7 @@
     </a>
   </div>
   
-  <br><br><br><br><br><br><br><br><br>
+  <br>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=sultan-ul-arefin&theme=react&border=61dafb&hide_border=true" alt="sultan-ul-arefin" />
@@ -85,8 +85,6 @@
       <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=sultan-ul-arefin&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
-
-  
   <br><br><br><br><br><br><br><br><br>
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=sultan-ul-arefin&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
