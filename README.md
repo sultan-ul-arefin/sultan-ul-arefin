@@ -59,12 +59,13 @@
   <code><img title="Git" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/git-original.svg"></code>
   <!-- <code><img title="JSON" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/json.svg"></code> -->
   <!-- <code><img title="Unity" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/unity3d.svg"></code> -->
-  <code><img title="Android" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/android.svg"></code>
+  <code><img title="npm" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/npm.svg"></code>
   <code><img title="MySQL" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/mysql.svg"></code>
   <code><img title="PostgreSQL" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/postgresql.svg"></code>
-  <code><img title="npm" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/npm.svg"></code>
+
   <!-- <code><img title="PHP" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/php.svg"></code> -->
-    <code><img title="AngularJS" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/angularjs.png"></code>
+  <code><img title="AngularJS" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/angularjs.png"></code>
+  <code><img title="Android" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/android.svg"></code>
   
 </p>
 <hr>
