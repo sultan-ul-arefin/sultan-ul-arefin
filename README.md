@@ -43,8 +43,8 @@
   <code><img title="Javascript" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/javascript.svg"></code>
   <code><img title="AngularJS" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/angularjs.png"></code>
   <code><img title="Android" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/android.svg"></code>
-  <!-- <code><img title="Django" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/django.png"></code> -->
-  <!-- <code><img title="Flask" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/flask.png"></code> -->
+  <code><img title="Django" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/django.png"></code>
+  <code><img title="Flask" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/flask.png"></code>
   <!-- <code><img title="Problem Solving" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/problemSolving.png"></code> -->
   <!-- <code><img title="Gulp" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/gulp.svg"></code> 
   <code><img title="React" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/react-original.svg"></code>
