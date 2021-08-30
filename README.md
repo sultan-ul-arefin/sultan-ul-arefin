@@ -22,7 +22,7 @@
   <br>
   🌱 Also working at a startup company <a href="https://infobahnrealm.com" title="Infobahn Realm">Infobahn Realm</a> as software engineer.
   <br>
-  💻 I love writing clean code and knowing about pattern of golden ratio.
+  💻 I love writing clean code and knowing about latest technology staff.
   <br>
   📚 I’m currently learning Blockchain, NLP & Data Science beside Flutter.
   <br>
