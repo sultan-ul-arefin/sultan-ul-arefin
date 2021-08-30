@@ -58,11 +58,11 @@
   <code><img title="Visual Studio Code" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/vscode.png"></code>
   <code><img title="Microsoft Visual Studio" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/visualstudio.png"></code>
   <!-- <code><img title="JQuery" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/jquery-original.svg"></code> -->
+  <code><img title="npm" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/npm.svg"></code>
   <code><img title="GitHub" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/github.svg"></code>
   <code><img title="Git" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/git-original.svg"></code>
   <!-- <code><img title="JSON" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/json.svg"></code> -->
   <!-- <code><img title="Unity" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/unity3d.svg"></code> -->
-  <code><img title="npm" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/npm.svg"></code>
   <code><img title="MySQL" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/mysql.svg"></code>
   <code><img title="PostgreSQL" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/postgresql.svg"></code>
 
