@@ -41,16 +41,19 @@
   <code><img title="Python" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/python-original.svg"></code>
     <code><img title="Java" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/java-original.svg"></code>
   <code><img title="Javascript" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/javascript.svg"></code>
+  <code><img title="AngularJS" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/angularjs.png"></code>
+  <code><img title="Android" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/android.svg"></code>
   <!-- <code><img title="Django" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/django.png"></code> -->
   <!-- <code><img title="Flask" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/flask.png"></code> -->
   <!-- <code><img title="Problem Solving" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/problemSolving.png"></code> -->
-  <code><img title="HTML5" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/css.svg"></code>
-  <code><img title="SASS" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/sass.svg"></code>
   <!-- <code><img title="Gulp" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/gulp.svg"></code> 
   <code><img title="React" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/react-original.svg"></code>
   <code><img title="Redux" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/redux.svg"></code> -->
   <!-- <code><img title=".NetCore" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/dotnetcore.svg"></code> -->
+
+  <code><img title="HTML5" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/html5.svg"></code>
+  <code><img title="CSS" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/css.svg"></code>
+  <code><img title="SASS" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/sass.svg"></code>
   
   <code><img title="Visual Studio Code" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/vscode.png"></code>
   <code><img title="Microsoft Visual Studio" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/visualstudio.png"></code>
@@ -64,8 +67,7 @@
   <code><img title="PostgreSQL" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/postgresql.svg"></code>
 
   <!-- <code><img title="PHP" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/php.svg"></code> -->
-  <code><img title="AngularJS" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/angularjs.png"></code>
-  <code><img title="Android" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/android.svg"></code>
+  
   
 </p>
 <hr>
