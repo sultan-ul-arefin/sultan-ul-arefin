@@ -39,6 +39,8 @@
   <code><img title="C++" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/cpp.svg"></code> -->
   <code><img title="Javascript" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/javascript.svg"></code>
   <code><img title="Typescript" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/Typescript.svg"></code>
+  <code><img title="Node js" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/nodejs.png"></code>
+  <code><img title="Nest js" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/nestjs.png"></code>
   <code><img title="AngularJS" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/angularjs.png"></code>
   <code><img title="ionic" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/ionic.png"></code>
   <code><img title="C#" height="25" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/cSharp.svg"></code>
