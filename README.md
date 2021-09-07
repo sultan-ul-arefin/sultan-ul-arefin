@@ -9,9 +9,9 @@
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/sultan-ul-arefin/" title="LinkedIn"><img width="22" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/linkedin.svg"> LinkedIn</a></code>
-    <code><a href="https://www.Facebook.com/arefin99" title="Facebook Profile"><img width="22" src="https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff"> Email</a></code>
-  <code><a href="mailto:programmer.arefin@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub." title="Send email"><img width="22" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/facebook.png"> Facebook</a></code>
-  <code><a href="https://sultan-ul-arefin.github.io/" title="Website & Blog"><img width="22" src="https://img.shields.io/badge/MyBlog-2648ff?style=flat-square&logo=google-chrome"> Website & Blog </a>
+    <code><a href="https://www.Facebook.com/arefin99" title="Facebook Profile"><img width="22" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/facebook.png"> Facebook</a></code>
+  <code><a href="mailto:programmer.arefin@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub." title="Send email"><img width="22" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/gmail.png"> Email</a></code>
+  <code><a href="https://sultan-ul-arefin.github.io/" title="Website & Blog"><img width="22" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/blog.png"> Website & Blog </a>
   </code>
 
 </h5>
