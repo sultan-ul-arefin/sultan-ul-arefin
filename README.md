@@ -108,7 +108,7 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/sultan-ul-arefin/hr_flutter_app" title="Flutter HR Application"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sultan-ul-arefin&repo=hr_flutter_app&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/sultan-ul-arefin/scully" title="Angular Scully"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sultan-ul-arefin&repo=scully&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/sultan-ul-arefin/hr-flutter-app" title="Flutter HR Application"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sultan-ul-arefin&repo=hr-flutter-app&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/sultan-ul-arefin/scully" title="Angular Scully"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sultan-ul-arefin&repo=scully&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <!-- <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
