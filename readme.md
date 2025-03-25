@@ -20,15 +20,16 @@ I have more than five years of experience in design, development, architecture a
 ```typescript
 
 /**
- * @Profile
- * Github Profile of Md Sultanul Arefin.
+ * @GithubProfile
+ * Github profile of Md Sultanul Arefin.
  * Expertise in Modern Software Engineering.
  */
 
 class SultanulArefinProfile extends GithubProfile {
     /**
      * @Contact
-     * I'm now available to develop cutting-edge artificial intelligence software.
+     * Contact Information
+     * I'm now interested in developing artificial intelligence software.
      */
     @enumerable(true)
     public contact: ContactInfo = {
@@ -50,7 +51,7 @@ class SultanulArefinProfile extends GithubProfile {
         {
             company: "INFOBAHN REALM",
             title: "Software Engineer",
-            years: "2019 - Present",
+            years: "2019 - 2021",
             responsibilities: [
                 "Created awesome user experience (UX) on front end.",
                 "Developed efficient server side technology.",
@@ -69,6 +70,26 @@ class SultanulArefinProfile extends GithubProfile {
                 "Realtime System",
             ],
         },
+        {
+            company: "LEAPING LOGIC",
+            title: "Angular Developer",
+            years: "2021 - 2024",
+            responsibilities: [
+                "Contributed to the development and optimization of 80+ features, enhancing functionality and improve system efficiency.",
+                "Implemented, and delivered a cross-platform, high-performance mobile application using ionic/capacitor and launched.",
+                "Regularly upgraded to latest versions of angular & packages to maintainability and scalability.",
+                "Contributed to more then five projects.",
+                "Integrated multiple payment processors, adhering to stringent certification guidelines.",
+                "Consistently delivered high-quality, remote work, self-discipline and effectiveness in a distributed environment.",
+            ],
+            keywords: [
+                "Angular 17",
+                "Vue Js",
+                "Capacitor",
+                "Ionic",
+                "Frontend Lead"
+            ],
+        },
     ];
 
     /**
@@ -83,13 +104,13 @@ class SultanulArefinProfile extends GithubProfile {
             "Java",
             "Python",
             "Dart",
-            ".Net (C#)",
+            ".Net",
             "SCSS",
         ],
         frameworks: [
             "NestJs",
             "Expressjs",
-            "Angular 10",
+            "Angular 19",
             "Ionic",
             "Flutter",
             "Native Android",
