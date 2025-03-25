@@ -24,8 +24,8 @@ I have more than five years of experience in design, architecture, development, 
  * Github Profile of Md Sultanul Arefin.
  * Expertise in Modern Software Engineering.
  */
-@sealed
-class SultanulArefinProfile {
+
+class SultanulArefinProfile extends GithubProfile {
     /**
      * @Contact
      * I'm now available to develop cutting-edge artificial intelligence software.
