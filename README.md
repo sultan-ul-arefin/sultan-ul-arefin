@@ -4,14 +4,22 @@
 </a>
 </div>
 <br>
-<img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!+👋;+I'm+Sultanul+Arefin!;" />
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!+👋;+I'm+Sultanul+Arefin!;" />
+<br>
+<p>
+I have more than five years of experience in design, architecture, development, and deployment in software development,
+always try to focus on building user-friendly and high-performance web applications to increase user satisfaction,
+and follow best practices and write clean code every time, making development faster and easier to maintain,
+enjoy team energy by speed up project completion and improve productivity ensuring every solution is creative and effective.
+</p>
+</div>
 <br>
 <h5 align="center">
   <a href="https://www.linkedin.com/in/sultan-ul-arefin/" title="LinkedIn"><img width="22" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/linkedin.svg"> LinkedIn</a>
   <a href="mailto:hello@sultanularefin.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub." title="Send email"><img width="22" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/gmail.png"> Email</a>
   <a href="https://www.Facebook.com/arefin99" title="Facebook Profile"><img width="22" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/facebook.png"> Facebook</a>
   <a href="https://sultanularefin.com/" title="Website & Blog"><img width="22" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/blog.png"> Website </a>
-  
 </h5>
 <br>
 <hr>
@@ -39,17 +47,6 @@ class SultanulArefinProfile {
         email: "hello@sultanularefin.com",
         phone: "+8801780324264"
     };
-
-    /**
-     * @Summary
-     * A brief introduction.
-     */
-    @enumerable(true)
-    public summary: string = `
-    I have more than five years of experience in design, architecture, development, and deployment in software development,
-    always try to focus on building user-friendly and high-performance web applications to increase user satisfaction,
-    and follow best practices and write clean code every time, making development faster and easier to maintain,
-    enjoy team energy by speed up project completion and improve productivity ensuring every solution is creative and effective.`;
 
     /**
      * @ProfessionalExperience
@@ -82,9 +79,9 @@ class SultanulArefinProfile {
     ];
 
     /**
- * @Skills
- * Represents a categorized list of technical proficiencies.
- */
+     * @Skills
+     * Represents a categorized list of technical proficiencies.
+     */
     @enumerable(true)
     public skills: Skills = {
         programming: [
@@ -115,31 +112,6 @@ class SultanulArefinProfile {
             "Linux Ubuntu",
             "Linux Centos",
         ],
-    };
-}
-
-/**
- * @decorator sealed
- * Prevents the class from being extended.
- * @param constructor The constructor of the class.
- */
-function sealed(constructor: Function): void {
-    Object.seal(constructor);
-    Object.seal(constructor.prototype);
-}
-
-/**
- * @decorator enumerable
- * Sets the enumerable property of a class member.
- * @param value Whether the property should be enumerable.
- */
-function enumerable(value: boolean) {
-    return function (
-        target: any,
-        propertyKey: string,
-        descriptor: PropertyDescriptor
-    ) {
-        descriptor.enumerable = value;
     };
 }
 
