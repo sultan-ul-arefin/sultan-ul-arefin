@@ -10,9 +10,9 @@
 <p>
 I have more than five years of experience in design, development, architecture and deployment, i'm trying to build user-friendly and high-performance web applications to increase user satisfaction. I also follow best practices and write clean code every time, making development faster and easier to maintain. I enjoy team energy and contributions.
 </p>
-  <a href="https://sultanularefin.com/" title="Website"><img width="22" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/blog.png"> Website </a>
-  <a href="mailto:hello@sultanularefin.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub." title="Send email"><img width="22" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/gmail.png"> Email</a>
-  <a href="https://www.linkedin.com/in/sultan-ul-arefin/" title="LinkedIn"><img width="22" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/linkedin.svg"> LinkedIn</a>
+  <a href="https://sultanularefin.com/" target="_blank" title="Website"><img width="22" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/blog.png"> Website </a>
+  <a href="mailto:hello@sultanularefin.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub." target="_blank" title="Send email"><img width="22" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/gmail.png"> Email</a>
+  <a href="https://www.linkedin.com/in/sultan-ul-arefin/" target="_blank" title="LinkedIn"><img width="22" src="https://github.com/sultan-ul-arefin/sultan-ul-arefin/blob/main/images/linkedin.svg"> LinkedIn</a>
 </div>
 <br>
 <hr>
