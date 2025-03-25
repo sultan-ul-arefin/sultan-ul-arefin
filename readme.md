@@ -43,7 +43,7 @@ class SultanulArefinProfile extends GithubProfile {
 
     /**
      * @ProfessionalExperience
-     * Details the professional history and responsibilities.
+     * Details the professional experience and responsibilities.
      */
     @enumerable(true)
     public professionalExperience: Experience[] = [
