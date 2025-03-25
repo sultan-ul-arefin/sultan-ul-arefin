@@ -1,3 +1,178 @@
+<div align="right">
+<a style="text-decoration: none" target="_blank"href="https://github.com/sultan-ul-arefin">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=sultan-ul-arefin.sultan-ul-arefin&left_color=gray&right_color=blue&left_text=Coders%20visitors">
+</a>
+</div>
+<br>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!+👋;+I'm+Sultanul+Arefin!;" />
+
+```
+
+/**
+ * @Profile
+ * Github Profile of Md Sultanul Arefin.
+ * Expertise in Modern Software Engineering.
+ */
+@sealed
+class SultanulArefinProfile {
+    /**
+     * @Contact
+     * I'm now available to develop cutting-edge artificial intelligence software.
+     */
+    @enumerable(true)
+    public contact: ContactInfo = {
+        name: "Md Sultanul Arefin",
+        title: "Software Engineer",
+        website: "sultanularefin.com",
+        linkedin: "linkedin.com/in/sultan-ul-arefin",
+        github: "github.com/sultan-ul-arefin",
+        email: "hello@sultanularefin.com",
+        phone: "+8801780324264"
+    };
+
+    /**
+     * @Summary
+     * A brief introduction.
+     */
+    @enumerable(true)
+    public summary: string = `I have more than five years of experience in design, architecture, development, and deployment in software development. I always focus on building user-friendly and high-performance web applications to increase user satisfaction. I always try to follow best practices and write clean code every time, making development faster and easier to maintain. I enjoy team energy, helping to speed up project completion and improve team productivity while ensuring every solution is creative and effective.`;
+
+    /**
+     * @ProfessionalExperience
+     * Details the professional history and responsibilities.
+     */
+    @enumerable(true)
+    public professionalExperience: Experience[] = [
+        {
+            company: "INFOBAHN REALM",
+            title: "Software Engineer",
+            years: "2019 - Present",
+            responsibilities: [
+                "Created awesome user experience (UX) on front end.",
+                "Developed efficient server side technology.",
+                "Worked on three major projects like Social Media app, Real time online examination system as fullstack engineer, mostly using (MEAN) stack with socket.io for real time data transmission.",
+                "Contributed to five minor projects.",
+                "Experienced with server technology like setup STURN and TURN and MongoDB server.",
+                "Managed CI/CD deployment process with Linux based system.",
+            ],
+            keywords: [
+                "Typescript",
+                "Nodejs",
+                "Angular 10",
+                "Nosql",
+                "Database Design",
+                "AWS Server",
+                "Realtime System",
+            ],
+        },
+    ];
+
+    /**
+ * @Skills
+ * Represents a categorized list of technical proficiencies.
+ */
+    @enumerable(true)
+    public skills: Skills = {
+        programming: [
+            "Typescript",
+            "Javascript",
+            "Java",
+            "Python",
+            "Dart",
+            ".Net (C#)",
+            "SCSS",
+        ],
+        frameworks: [
+            "NestJs",
+            "Expressjs",
+            "Angular 10",
+            "Ionic",
+            "Flutter",
+            "Native Android",
+            "Flask",
+            "Django",
+        ],
+        databases: ["MongoDB", "PostgreSQL", "MySQL", "Microsoft SQL Server"],
+        developmentTools: ["Visual Studio Code", "IntelliJ Idea"],
+        versionControl: ["Git", "Github"],
+        operatingSystems: [
+            "Mac OS X",
+            "Windows 10",
+            "Linux Ubuntu",
+            "Linux Centos",
+        ],
+    };
+}
+
+/**
+ * @interface ContactInfo
+ * Defines the structure for contact details.
+ */
+interface ContactInfo {
+    name: string;
+    title: string;
+    website?: string;
+    linkedin?: string;
+    github?: string;
+    email: string;
+    phone: string;
+}
+
+/**
+ * @interface Experience
+ * Defines the structure for professional experience entries.
+ */
+interface Experience {
+    company: string;
+    title: string;
+    years: string;
+    responsibilities: string[];
+    keywords?: string[];
+}
+
+/**
+ * @interface Skills
+ * Defines the structure for categorized skills.
+ */
+interface Skills {
+    programming: string[];
+    frameworks: string[];
+    databases: string[];
+    developmentTools: string[];
+    versionControl: string[];
+    operatingSystems: string[];
+}
+
+/**
+ * @decorator sealed
+ * Prevents the class from being extended.
+ * @param constructor The constructor of the class.
+ */
+function sealed(constructor: Function): void {
+    Object.seal(constructor);
+    Object.seal(constructor.prototype);
+}
+
+/**
+ * @decorator enumerable
+ * Sets the enumerable property of a class member.
+ * @param value Whether the property should be enumerable.
+ */
+function enumerable(value: boolean) {
+    return function (
+        target: any,
+        propertyKey: string,
+        descriptor: PropertyDescriptor
+    ) {
+        descriptor.enumerable = value;
+    };
+}
+```
+
+
+
+
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sultan-ul-arefin.sultan-ul-arefin">
 
 <h1 align="center">
