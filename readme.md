@@ -96,9 +96,20 @@ class SultanulArefinProfile {
             "Flask",
             "Django",
         ],
-        databases: ["MongoDB", "PostgreSQL", "MySQL", "Microsoft SQL Server"],
-        developmentTools: ["Visual Studio Code", "IntelliJ Idea"],
-        versionControl: ["Git", "Github"],
+        databases: [
+            "MongoDB", 
+            "PostgreSQL", 
+            "MySQL", 
+            "Microsoft SQL Server"
+        ],
+        developmentTools: [
+            "Visual Studio Code", 
+            "IntelliJ Idea"
+        ],
+        versionControl: [
+            "Git",
+            "Github"
+        ],
         operatingSystems: [
             "Mac OS X",
             "Windows 10",
