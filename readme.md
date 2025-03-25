@@ -5,7 +5,7 @@
 </div>
 <br>
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hello+There!+👋;Hope+you're+having+great+time!+🍹;+I'm+Sultanul+Arefin!+👨🏽‍💻;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hello+Champ!+How’s+going?+🤔;+I'm+Sultanul+Arefin!+👨🏽‍💻;" />
 <br>
 <p>
 I have more than five years of experience in design, development, architecture and deployment, i'm trying to build user-friendly and high-performance web applications to increase user satisfaction. I also follow best practices and write clean code every time, making development faster and easier to maintain. I enjoy team energy and contributions.
