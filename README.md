@@ -35,7 +35,11 @@ class SultanulArefinProfile {
      * A brief introduction.
      */
     @enumerable(true)
-    public summary: string = `I have more than five years of experience in design, architecture, development, and deployment in software development. I always focus on building user-friendly and high-performance web applications to increase user satisfaction. I always try to follow best practices and write clean code every time, making development faster and easier to maintain. I enjoy team energy, helping to speed up project completion and improve team productivity while ensuring every solution is creative and effective.`;
+    public summary: string = `
+    I have more than five years of experience in design, architecture, development, and deployment in software development.
+    I always focus on building user-friendly and high-performance web applications to increase user satisfaction.
+    I always try to follow best practices and write clean code every time, making development faster and easier to maintain.
+    I enjoy team energy, helping to speed up project completion and improve team productivity while ensuring every solution is creative and effective.`;
 
     /**
      * @ProfessionalExperience
@@ -105,45 +109,6 @@ class SultanulArefinProfile {
 }
 
 /**
- * @interface ContactInfo
- * Defines the structure for contact details.
- */
-interface ContactInfo {
-    name: string;
-    title: string;
-    website?: string;
-    linkedin?: string;
-    github?: string;
-    email: string;
-    phone: string;
-}
-
-/**
- * @interface Experience
- * Defines the structure for professional experience entries.
- */
-interface Experience {
-    company: string;
-    title: string;
-    years: string;
-    responsibilities: string[];
-    keywords?: string[];
-}
-
-/**
- * @interface Skills
- * Defines the structure for categorized skills.
- */
-interface Skills {
-    programming: string[];
-    frameworks: string[];
-    databases: string[];
-    developmentTools: string[];
-    versionControl: string[];
-    operatingSystems: string[];
-}
-
-/**
  * @decorator sealed
  * Prevents the class from being extended.
  * @param constructor The constructor of the class.
@@ -167,9 +132,8 @@ function enumerable(value: boolean) {
         descriptor.enumerable = value;
     };
 }
+
 ```
-
-
 
 
 
