@@ -22,7 +22,7 @@ I have more than five years of experience in design, development, architecture a
  * Github profile of Md Sultanul Arefin.
  * Expertise in Modern Software Engineering.
  */
-class SultanulArefinProfile extends GithubProfile {
+class SultanulArefinProfile implements GithubProfile {
     /**
      * @Contact
      * Contact Information
